@@ -10,9 +10,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="292.85559mm"
+   height="207.67096mm"
+   viewBox="0 0 292.85559 207.67096"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-87.456702"
-     inkscape:cy="558.31079"
+     inkscape:cx="165.69844"
+     inkscape:cy="656.86653"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,44 +54,54 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(40.748784,-45.332913)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot6092"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6094"><rect
            id="rect6096"
            width="438.14648"
            height="170.49382"
            x="223.50345"
            y="251.99016" /></flowRegion><flowPara
-         id="flowPara6098" /></flowRoot>    <rect
-       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.10089241;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect30"
-       width="203.46355"
-       height="288.73938"
-       x="3.5310814"
-       y="4.3874145" />
-    <a
-       id="a6100"
-       transform="matrix(0.22616571,-0.18085157,0.19737598,0.32124139,159.21425,152.28517)"
-       inkscape:transform-center-x="-0.23255821"
-       inkscape:transform-center-y="0.52776683"
-       style="fill:#1a1a1a">
+         id="flowPara6098" /></flowRoot>    <g
+       id="g230"
+       transform="translate(0.75595238)">
       <g
-         id="g6132"
-         transform="matrix(0.6916472,-0.02024598,-0.03138454,0.70994086,-145.75687,-238.55567)">
+         transform="rotate(89.972939,105.67901,149.16839)"
+         id="g180">
+        <rect
+           style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.10125425;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect30"
+           width="204.34079"
+           height="289.56567"
+           x="3.4317095"
+           y="4.4400082"
+           transform="rotate(-0.02953543)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.19192314;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 3.5086179,4.3855519 H 207.84941 V 293.95123 H 3.5086179 Z"
+           id="path51"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:transform-center-y="-7.0949522"
+         inkscape:transform-center-x="-2.2417297"
+         id="g4609"
+         transform="matrix(2.33436,0.46365421,-0.70025668,2.1318651,-929.19919,124.11146)"
+         style="fill:#1a1a1a;stroke-width:0.71956801;stroke-miterlimit:4;stroke-dasharray:none">
         <g
-           style="stroke-width:0.71956801;stroke-miterlimit:4;stroke-dasharray:none"
-           transform="matrix(13.573544,7.6415946,-9.6758406,11.087181,-1452.2503,-1723.3148)"
-           id="g4609">
+           transform="matrix(1.0502395,0.03476613,0.05346078,1.2762812,264.11158,-163.47346)"
+           id="g209">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.71956801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 140.70075,68.198894 c -1.00824,9.898198 -1.00824,9.898198 -1.00824,9.898198 l 11.69555,-0.860707 7.56179,-19.904003 z"
@@ -157,24 +167,21 @@
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="ccccc" />
         </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:93.35084534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.2566033;stroke-miterlimit:4;stroke-dasharray:none"
-           x="288.41547"
-           y="354.10922"
-           id="text3701"
-           transform="matrix(0.68567772,-0.23891365,-0.26551678,1.5509263,0,0)"><tspan
-             sodipodi:role="line"
-             id="tspan3699"
-             x="288.41547"
-             y="354.10922"
-             style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.2566033;stroke-miterlimit:4;stroke-dasharray:none">HRAT</tspan></text>
       </g>
-    </a>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.18051672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3.5310814,4.3874144 H 206.99463 V 293.1268 H 3.5310814 Z"
-       id="path51"
-       inkscape:connector-curvature="0" />
+      <text
+         inkscape:transform-center-y="-2.9367787"
+         inkscape:transform-center-x="-2.0502911"
+         transform="matrix(0.74249719,-0.11398029,-0.24135575,1.3838568,0,0)"
+         id="text3701"
+         y="168.88147"
+         x="27.95048"
+         style="font-style:normal;font-weight:normal;font-size:121.43190002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.33379263;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.33379263;stroke-miterlimit:4;stroke-dasharray:none"
+           y="168.88147"
+           x="27.95048"
+           id="tspan3699"
+           sodipodi:role="line">HRAT</tspan></text>
+    </g>
   </g>
 </svg>
